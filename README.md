@@ -3,19 +3,29 @@
 The following README is a step by step guide to accessing the deep/dark web. The knowledge I will show you, and the things you
 will be able to access are NOT to be taken lightly. The deep web IS real and it is potentially dangerous if you don't know how to protect yourself. So please exercise caution when entering the forbidden side of the internet. 
 
+##What is TOR?
+
+<a href="https://www.youtube.com/watch?v=jXFOeXcfcfg" target="_blank">![TOR Logo](https://www.torproject.org/images/onion.jpg "The Onion Router") </a>
+
+### Common Myths
+
+* You are untrackable on the Deep Web. **FALSE!!!**
+* The Dark Web is only for underground criminals. **FALSE**
+* You will get arrested for browsing the Deep Web. **FALSE**
+* The Deep Web is a portal to information that others don't want you to have. **PARTIALLY TRUE**
+* You DON'T have access to censored material. **FALSE**
+* The Deep Web is Impenetrable. **FALSE**
+
 ##Step 1 - Download TOR
 
 You will need a special browser to access the other side of the internet. [Download TOR here](https://www.torproject.org/download/download.html.en).
 Just FYI, TOR stands for `The Onion Router` (because it's hidden in layers). This is the part where you are supposed to go "oooooooh".
 
-
 #####SPECIAL ANONYMITY TIP:
 
 You should be taking your anonymity very seriously if you are visiting the Deep Web and especially if you are viewing any Darknet Markets. The first thing you should do before doing anything is getting your self a VPN ([Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)). The ISP’s and Government Agencies are tracking and logging everything you do online now so don’t make it easy for them to catch you. They will be tracking who downloads Tor, the ISP’s are already logging your Tor usage and agencies like the DEA and NSA will be digging through the data with a fine tooth comb. If you use a good VPN that keeps no logs then your internet traffic is completely encrypted so not even your ISP or Law Enforcement will even know that you are using Tor let alone looking at Darknet Markets.
 
-
 ##Step 2 - configure your computer
-
 
 * Log out of everything. **I MEAN EVERYTHING**
 * Turn off JavaScript, Flash and Java
@@ -64,12 +74,11 @@ Internet traffic outside the network.
 
 You should not use Google to search the Internet if you care for your privacy. Google is known for collecting information on users’ browsing and search data to facilitate the growth of its ads revenue.
 
-You should consider using alternatives such as Startpage and DuckDuckGo. These services offer search results without logging your IP address and storing cookies on your computer. In simple words, these search engines are anonymity-compliant services, and that is why you should use them while using Tor instead of Google.
+You should consider using alternatives such as [StartPage](https://startpage.com/) and [DuckDuckGo](https://duckduckgo.com/). These services offer search results without logging your IP address and storing cookies on your computer. In simple words, these search engines are anonymity-compliant services, and that is why you should use them while using Tor instead of Google.
 
-##Step 4
+##Step 4 - Go to hidden wiki. Start browsing
 
-
-
+I will give you the link. Don't share this link online. **Don't look at child porn**. 
 
 #Want Tor to really work?
 
@@ -97,5 +106,9 @@ The Tor Browser will warn you before automatically opening documents that are ha
 
 Tor tries to prevent attackers from learning what destination websites you connect to. However, by default, it does not prevent somebody watching your Internet traffic from learning that you're using Tor. If this matters to you, you can reduce this risk by configuring Tor to use a Tor bridge relay rather than connecting directly to the public Tor network. Ultimately the best protection is a social approach: the more Tor users there are near you and the more diverse their interests, the less dangerous it will be that you are one of them. Convince other people to use Tor, too!
 
+#Various Links
 
+* [REAL Deep Web Horror Stories](https://www.youtube.com/watch?v=las201z57Wc)
+* [Deep Web User recants his story](https://www.reddit.com/r/deepweb/comments/2vryi8/my_visits_to_the_darkest_sites_on_the_deep_web/)
+* [Stupid Deep Web User](https://www.reddit.com/r/nosleep/comments/3f3c6n/i_thought_the_deepweb_was_a_joke_please_help_me/)
 
