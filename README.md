@@ -29,6 +29,8 @@ You should be taking your anonymity very seriously if you are visiting the Deep 
 
 * Log out of everything. **I MEAN EVERYTHING**
 * Turn off JavaScript, Flash and Java
+* Cover up your webcam
+* Be quiet. Your microphone can record anything you say. 
 
 Tor cannot protect your data with active content such as JavaScript, Adobe Flash, Java, QuickTime, ActiveX controls, VBScripts, etc.
 because these binary applications run with your user account’s privileges, and may access and share your data.
