@@ -19,7 +19,7 @@ will be able to access are NOT to be taken lightly. The deep web IS real and it 
 ##Step 1 - Download TOR
 
 You will need a special browser to access the other side of the internet. [Download TOR here](https://www.torproject.org/download/download.html.en).
-Just FYI, TOR stands for `The Onion Router` (because it's hidden in layers). This is the part where you are supposed to go "oooooooh".
+Just FYI, TOR stands for `The Onion Router` (because it communicates in layers). This is the part where you are supposed to go "oooooooh".
 
 #####SPECIAL ANONYMITY TIP:
 
